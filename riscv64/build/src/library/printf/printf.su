@@ -1,0 +1,12 @@
+src/library/printf/printf.c:356:20:putchar_wrapper	0	static
+src/library/printf/printf.c:431:13:out_rev_	80	static
+src/library/printf/printf.c:525:13:print_integer	48	static
+src/library/printf/printf.c:1039:20:format_string_loop.constprop	144	static
+src/library/printf/printf.c:1367:5:vprintf_	48	static
+src/library/printf/printf.c:1373:5:vsnprintf_	48	static
+src/library/printf/printf.c:1379:5:vsprintf_	48	static
+src/library/printf/printf.c:1384:5:vfctprintf	48	static
+src/library/printf/printf.c:1390:5:printf_	128	static
+src/library/printf/printf.c:1399:5:sprintf_	112	static
+src/library/printf/printf.c:1408:5:snprintf_	112	static
+src/library/printf/printf.c:1417:5:fctprintf	112	static

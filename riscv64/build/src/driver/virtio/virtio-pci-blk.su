@@ -1,0 +1,5 @@
+src/driver/virtio/virtio-pci-blk.c:206:5:virtio_pci_blk_cfg_isr	16	static
+src/driver/virtio/virtio-pci-blk.c:212:5:virtio_pci_blk_intr	48	static
+src/driver/virtio/virtio-pci-blk.c:130:6:virtio_pci_blk_cfg	16	static
+src/driver/virtio/virtio-pci-blk.c:23:5:virtio_pci_blk_init	32	static
+src/driver/virtio/virtio-pci-blk.c:145:6:virtio_pci_blk_rw	80	static

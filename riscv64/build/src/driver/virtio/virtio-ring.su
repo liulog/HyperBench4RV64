@@ -1,0 +1,4 @@
+src/driver/virtio/virtio-ring.c:12:5:virtio_vring_size	0	static
+src/driver/virtio/virtio-ring.c:23:5:virtio_vring_init	80	static
+src/driver/virtio/virtio-ring.c:49:6:virtio_vring_fill_desc	0	static
+src/driver/virtio/virtio-ring.c:59:6:virtio_vring_add_avail	0	static

@@ -1,0 +1,2 @@
+src/cpu/trap-handler.c:9:5:handle_trap	32	static
+src/cpu/trap-handler.c:34:6:handle_external_trap	16	static

@@ -1,0 +1,4 @@
+src/benchmark/out.c:20:20:control	0	static
+src/benchmark/out.c:27:13:cleanup	0	static
+src/benchmark/out.c:13:26:kernel	32	static
+src/benchmark/out.c:8:13:init	0	static

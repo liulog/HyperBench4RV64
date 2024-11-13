@@ -1,0 +1,4 @@
+src/benchmark/idle.c:5:13:init	0	static
+src/benchmark/idle.c:11:26:kernel	0	static
+src/benchmark/idle.c:18:20:control	0	static
+src/benchmark/idle.c:25:13:cleanup	0	static

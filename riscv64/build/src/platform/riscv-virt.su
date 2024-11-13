@@ -1,0 +1,3 @@
+src/platform/riscv-virt.c:10:6:plt_virt_init	16	static
+src/platform/riscv-virt.c:23:6:interrupts_init	0	static
+src/platform/riscv-virt.c:33:6:putchar_	0	static

@@ -1,0 +1,4 @@
+src/benchmark/in.c:20:20:control	0	static
+src/benchmark/in.c:26:13:cleanup	0	static
+src/benchmark/in.c:13:26:kernel	32	static
+src/benchmark/in.c:8:13:init	0	static

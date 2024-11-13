@@ -1,0 +1,4 @@
+src/platform/plic.c:14:6:plic_init	0	static
+src/platform/plic.c:23:6:plic_enable	0	static
+src/platform/plic.c:34:5:plic_claim	0	static
+src/platform/plic.c:41:6:plic_complete	0	static

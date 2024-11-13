@@ -1,0 +1,4 @@
+src/driver/virtio/virtio-pci-rng.c:145:5:virtio_pci_rng_cfg_isr	16	static
+src/driver/virtio/virtio-pci-rng.c:151:5:virtio_pci_rng_intr	16	static
+src/driver/virtio/virtio-pci-rng.c:20:5:virtio_pci_rng_init	32	static
+src/driver/virtio/virtio-pci-rng.c:111:5:virtio_pci_rng_read	48	static
